@@ -9,6 +9,7 @@ pdf included
 
 to add this block to gnuradio use:
 copy whole path to new folder named "gr-costas"
+
 cd gr-costas/
 
 mkdir build
