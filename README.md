@@ -1,4 +1,5 @@
 "# gnu-radio-adaptive-costas" 
+new funcionality implemented in cpp
 
 based on paper:
 "A Low-Noise Fast-Lock Phase-Locked Loop with
