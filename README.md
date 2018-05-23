@@ -6,13 +6,21 @@ new funcionality implemented in cpp
 ### Installing
 
 To add this block to gnuradio use:
+
 copy whole path to new folder named "gr-costas"
+
 cd gr-costas/
+
 mkdir build
+
 cd build/
+
 cmake ../
+
 make
+
 sudo make install
+
 sudo ldconfig
 
 ## Acknowledgments
