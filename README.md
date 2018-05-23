@@ -1,6 +1,6 @@
-# Project Title
+# GNU RADIO ADAPTIVE COSTAS BLOCK
 
-GNU RADIO ADAPTIVE COSTAS BLOCK
+
 new funcionality implemented in cpp
 
 ### Installing
